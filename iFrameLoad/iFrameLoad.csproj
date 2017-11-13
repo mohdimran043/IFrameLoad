@@ -538,6 +538,7 @@
     <Content Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
     <Content Include="pdf.js.map" />
     <Content Include="pdf.worker.js.map" />
+    <Content Include="compressed.tracemonkey-pldi-09.pdf" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="pdf.js" />
     <Content Include="pdf.worker.js" />
